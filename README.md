@@ -5,9 +5,10 @@
 Для получения данных за текущий месяц, создана функция с помощью библиотеки date-fns
 
 Посмотреть можно тут
-https://debtcalc.vercel.app/
+https://workhours-calc.vercel.app/
 
 Stack:
+
 - React JS
 - Less
 - React Hooks (useState, useEffect, useContext)
@@ -19,10 +20,13 @@ Stack:
 - Date-fns
 
 Deployment:
+
 - Vercel
 
 Backend:
+
 - Strapi
 - Heroku (deployment)
 - Mongo DB (хранение данных)
+
 # workhours
